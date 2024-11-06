@@ -29,3 +29,8 @@ class Car:
     pass
 
 my_car = Car()  # my_car is an object of the Car class
+```
+
+### Attributes and Methods
+- **Attributes**: Variables that store the state or data of an object.
+- **Methods**: Functions defined within a class that describe the behavior of an object.
