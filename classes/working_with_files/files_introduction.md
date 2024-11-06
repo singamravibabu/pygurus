@@ -18,9 +18,9 @@ Examples: .exe, .msi, .zip, image files, vidoe files, audio file, database file,
 ### OPENING A FILE: built-in open() function
 Syntax:
     open(file_name, mode)
-        * creates/returns a file object
-        * file_name: filepath, filename, and file extension
-        * mode: read, write, append, binary
+* creates/returns a file object
+* file_name: filepath, filename, and file extension
+* mode: read, write, append, binary
 
 ### MODES OF OPENING A FILE:
 'r' - read mode
