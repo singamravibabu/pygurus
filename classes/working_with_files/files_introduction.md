@@ -25,7 +25,7 @@ Syntax:
 ### MODES OF OPENING A FILE:
 'r' - read mode
     -> reads an existing file
-    -> if the file not found then it returns FileNotFoundError
+    -> if the file doesn't exists then it returns FileNotFoundError
 'w' - write mode
     -> if the file doesn't exists it creates a new file
     -> if the file already exists, then it overwrites the content

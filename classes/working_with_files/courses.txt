@@ -1,0 +1,10 @@
+Python
+Django
+HTML
+CSS
+JavaScript
+GitHub
+Jenkins
+Docker
+Kubernetis
+DevOps
