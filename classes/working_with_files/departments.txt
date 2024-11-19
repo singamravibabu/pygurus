@@ -1,0 +1,7 @@
+it
+sales
+hr
+admin
+marketing
+accounts
+finance
