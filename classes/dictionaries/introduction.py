@@ -21,7 +21,7 @@ country_codes["UAE"] = "United Arab Emirites"
 country_codes["CA"] = "Canada"
 print(country_codes)
 
-# change value of a key
+# change value of a key / setting an item
 country_codes["JP"] = "Jamaica"
 
 print(country_codes)
