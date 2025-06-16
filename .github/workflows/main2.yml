@@ -7,11 +7,11 @@ on:
         description: 'Deploy Environment'
 	required: true
 	default: 'staging'
- 	type: choice
-  	options:
-   	  - staging
-      	  - production
+	type: choice
+	options:
+          - staging
+          - production
       version:
         description: 'Version tag'
-	required: false
- 	type: string
+        required: false
+        type: string
