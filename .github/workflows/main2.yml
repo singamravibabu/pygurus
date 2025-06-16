@@ -4,14 +4,14 @@ on:
   workflow_dispatch:
     inputs:
       environment:
-        description: 'Deploy environment'
-        required: true
-        default: 'staging'
-        type: choice
-        options:
-          - staging
-	  - production
+        description: 'Deploy Environment'
+	required: true
+	default: 'staging'
+ 	type: choice
+  	options:
+   	  - staging
+      	  - production
       version:
         description: 'Version tag'
-        required: false
-        type: string
+	required: false
+ 	type: string
