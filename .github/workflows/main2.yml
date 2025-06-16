@@ -1,14 +1,13 @@
 name: Deployment Workflow
-
 on:
   workflow_dispatch:
     inputs:
       environment:
-        description: 'Deploy Environment'
-	required: true
-	default: 'staging'
-	type: choice
-	options:
+        description: 'Deploy environment'
+        required: true
+        default: 'staging'
+        type: choice
+        options:
           - staging
           - production
       version:
